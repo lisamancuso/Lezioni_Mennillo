@@ -1,3 +1,6 @@
+![Git Icona](./Immagini/Git_icon.svg.png)
+![GitHub Icona](./Immagini/GitHub_Icon.png)
+
 # Settare ambiente Linux per Git
 1. Installare git sulla macchina con `sudo apt install git`
 2. Settare username e password di github con i seguenti comandi
